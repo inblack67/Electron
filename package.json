@@ -20,5 +20,8 @@
     "electron": "^5.0.0",
     "nodemon": "^1.18.9"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "colors": "^1.4.0"
+  }
 }
